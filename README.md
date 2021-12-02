@@ -24,3 +24,7 @@ There are four directories in the repository.
 (2) is the Foreground/Background isolate program: This will use histogram to decide best threshold for generate foreground and background.
 
 (3) Generate Layer images: Use origin image, depth image, 
+
+<p align='center'>
+<img src='15176126617175.jpg' width='900'/>
+</p>
